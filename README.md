@@ -86,7 +86,7 @@ Check current version by using : (optional)
     system (set by /home/ etc..)
     *3.8.3
 
-Now that we have configure our environnement let's install the required packages.
+Now that we have configured our environment let's install the required packages.
 
     $ pip install gym
     $ pip install matplotlib
