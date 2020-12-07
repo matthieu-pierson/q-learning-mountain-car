@@ -25,8 +25,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 <p align="center">
-  ![plot](./mountaincarv0.gif)
+  <img width="460" height="300" src="./mountaincarv0.gif">
 </p>
 
 
