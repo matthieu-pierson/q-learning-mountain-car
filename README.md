@@ -28,6 +28,7 @@
   <img width="460" height="300" src="./mountaincarv0.gif">
 </p>
 
+MountainCar-v0 is a car on a one-dimensional track, positioned between two "mountains". The goal is to drive up the mountain on the right; however, the car's engine is not strong enough to scale the mountain in a single pass. Therefore, the only way to succeed is to drive back and forth to build up momentum.
 
 This repository contains a basic code for understanding the mechanics behind q learning.
 
@@ -113,3 +114,4 @@ Any contributions you make are **greatly appreciated**.
 * [sentdex - Reinforcement Learning](https://www.youtube.com/playlist?list=PLQVvvaa0QuDezJFIOU5wDdfy4e9vdnx-7)
 * [pyenv](https://github.com/pyenv/pyenv)
 * [pyenv-installer](https://github.com/pyenv/pyenv-installer)
+* [gym](https://gym.openai.com/envs/MountainCar-v0/)
