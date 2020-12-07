@@ -29,7 +29,7 @@
 </p>
 
 
-This repository is a basic code for understanding the mecanics behind qlearning.
+This repository contains a basic code for understanding the mechanics behind q learning.
 
 ### Built With
 
