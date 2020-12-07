@@ -50,7 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-Copy the repository to a new directory for example :
+Copy the repository to a new directory :
 
     $ mkdir ~/qlearning_mountaincar_v0
     $ cd ~/qlearning_mountaincar_v0
