@@ -45,11 +45,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
+* [Python](https://getbootstrap.com)
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -65,6 +61,24 @@ To get a local copy up and running follow these simple example steps.
 * numpy
 
 ### Installation
+
+pyenv & python 3.8.3 installation (optional):
+.. code:: bash
+
+    $ curl https://pyenv.run | bash
+    
+``pyenv.run`` redirects to the install script in this repository and the invocation above is equivalent to::
+
+    $ curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash
+
+Restart your shell so the path changes take effect:
+
+.. code:: bash
+
+    $ exec $SHELL
+
+You can now begin using pyenv.
+
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
